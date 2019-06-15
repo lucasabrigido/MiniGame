@@ -1,10 +1,9 @@
-/**
-# MiniGame
+# MiniGame 
 
-Intro:
+Intro: 
     Game create using Unity3d and C#.
-Developer:
+Developer: 
 	Lucas Araújo Brígido
-Version:
+Version: 
 	Alpha : 1.0.0
-	**/
+
