@@ -1,7 +1,7 @@
 # MiniGame 
 
 Intro: 
-    Game create using Unity3d and C#.
+    Game creating using Unity3d and C#.
 Developer: 
 	Lucas Araújo Brígido
 Version: 
