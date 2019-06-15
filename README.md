@@ -1,3 +1,4 @@
+/**
 # MiniGame
 
 Intro:
@@ -6,3 +7,4 @@ Developer:
 	Lucas Araújo Brígido
 Version:
 	Alpha : 1.0.0
+	**/
